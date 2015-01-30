@@ -1,0 +1,146 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gilleyj/Projects/seabreeze/views/index.twig",
+		"/Users/gilleyj/Projects/seabreeze/web/index.php",
+		"/Users/gilleyj/Projects/seabreeze/.gitignore",
+		"/Users/gilleyj/Desktop/steps.txt",
+		"/Users/gilleyj/Projects/seabreeze/seabreeze.sublime-project",
+		"/Users/gilleyj/Downloads/1d682036-8f9d-4067-9bcf-98477deed2ad.txt",
+		"/Users/gilleyj/hints",
+		"/Users/gilleyj/Desktop/interview",
+		"/Users/gilleyj/Desktop/aws credentials.txt",
+		"/Users/gilleyj/Downloads/install-2.sh",
+		"/Users/gilleyj/Downloads/install.sh",
+		"/Users/gilleyj/Projects/scholar-vagrant/web-dna.json",
+		"/Users/gilleyj/Downloads/scholar-vagrant-master/Makefile",
+		"/Users/gilleyj/Projects/scholar-vagrant/Vagrantfile"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
